@@ -1,0 +1,5 @@
+#english 
+
+# Three worlds of “Freeing the Pike” (by Richard Wagamese). 
+
+Richard Wagamese did a great job on illustrating the three worlds of his text, “Freeing the Pike”. As an Indian, he knows how important freedom is to native people. Wagamese talked about lowering the pike, that he caught, back to the water. He expressed how he felt being raise in an adopted home as a native. His freedom has been taken away when going to the residential school, just like those fishes that were taken away from the river by human. The text itself was written to represent the life of the author when he was a kid. As we know, the author uses the pronoun“I” to indicate a first person point of view in the text. After reading the story, the reader can understand that the indigenous people were treated like the pikes in a river. Residential school took away freedom and force the indigenous children to learn their culture. This is what the author, Richard Wagamese, communicates the world after the text with the readers. The takeaway is the situation growing as an indigenous kid.
