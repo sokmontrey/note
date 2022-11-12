@@ -3,7 +3,7 @@ This is all my notes regarding different subjects. All the note are taken down i
 
 # How to use this note?
 For a better render of these markdown files, consider the following step:
-1. Download & install Obsidian
+1. Download & install [Obsidian](https://obsidian.md/)
 2. Download the **Note** folder in this respotory.
 3. Open the Note folder from Obsidian software as **Vault**.
 
