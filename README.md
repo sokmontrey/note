@@ -4,7 +4,7 @@ This is all my notes regarding different subjects. All the note are taken down i
 # How to use this note?
 For a better render of these markdown files, consider the following step:
 1. Download & install [Obsidian](https://obsidian.md/)
-2. Download the [Note](https://github.com/sokmontrey/note/tree/master/Note) folder in this respotory.
+2. Download the [Note](https://github.com/sokmontrey/note/tree/master/Note) folder from this respotory.
 3. Open the Note folder from Obsidian software as **Vault**.
 
 ![note map](https://user-images.githubusercontent.com/49610016/201491940-8405819e-4bc6-4e7e-b7dc-1db52d779338.png)
